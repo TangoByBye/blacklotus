@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body{ 
+    background-color: rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    }
+    
+h1{
+    color: rgb(122, 0, 0);
+    }
+h2{
+    color: rgb(245, 252, 251);
+}
+p{
+    color: rgb(245, 252, 251);
+    text-align: justify;
+}
+ul{
+    color: white;
+    text-align: right;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: #F00;
+   }
+/* Criando a classe*/
+.oculto{
+    color: rgb(0, 0, 0);
+    text-align:left;
+}
+h6{
+    color: black;
+}
