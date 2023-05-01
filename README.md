@@ -1,2 +1,2 @@
 # blacklotus
-Site para ser utilizado em aventuras de RPG, para os players acessarem durante a aventura
+Site para ser utilizado em aventuras de RPG, para os players acessarem durante a aventura.
